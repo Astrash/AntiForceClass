@@ -28,7 +28,7 @@ namespace AntiForceClass
         internal static void AntiCheatBanClient(Entity obj, string v)
         {
             Utilities.ExecuteCommand($"banclient {obj.EntRef} ^0[^5Anti-ForceClass^0]");
-            using (StreamWriter str = new StreamWriter(@"scripts`\AntiCheatLogs.txt", true))
+            using (StreamWriter str = new StreamWriter(@"scripts\AntiCheatLogs.txt", true))
             {
                 str.WriteLine("[AntiCheat]: Anti-" + v + ": " + obj.Name + "::DSR=" + Function.Call<string>("getdvar", "sv_current_dsr") + "::Weapon=" + obj.CurrentWeapon);
                 str.Flush();
