@@ -1,0 +1,7 @@
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\bin\Debug\AntiForceClass.dll
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\bin\Debug\AntiForceClass.pdb
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\obj\Debug\AntiForceClass.csprojResolveAssemblyReference.cache
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\obj\Debug\AntiForceClass.csproj.CoreCompileInputs.cache
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\obj\Debug\AntiForceClass.csproj.CopyComplete
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\obj\Debug\AntiForceClass.dll
+c:\users\nithzer\source\repos\AntiForceClass\AntiForceClass\obj\Debug\AntiForceClass.pdb
